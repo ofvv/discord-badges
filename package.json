@@ -1,0 +1,41 @@
+{
+  "name": "discord-badges",
+  "version": "1.2.0",
+  "description": "Give Roles To People With Discord Badges!",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ZiroCore/discord-badges"
+  },
+  "keywords": [
+    "Discord",
+    "discord.js",
+    "discord.js",
+    "bot",
+    "discord",
+    "badges",
+    "discord",
+    "role",
+    "badges",
+    "discord",
+    "give",
+    "badges",
+    "discord",
+    "role",
+    "badges",
+    "bot",
+    "roles",
+    "bot",
+    "client",
+    "discord.js.org"
+  ],
+  "author": "ZiroCore",
+  "license": "ISC"
+}

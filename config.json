@@ -1,0 +1,17 @@
+{
+  "bot": {
+    "token": "bot token"
+  },
+  "roles": {
+    "hypesquadbalance": "id",
+    "hypesquadbravery": "id",
+    "hypesquadbrilliance": "id",
+    "discordstaff": "id",
+    "hypesquadevents": "id",
+    "botdeveloper": "id",
+    "earlysupporter": "id",
+    "bughunterlevel1": "id",
+    "bughunterlevel2": "id",
+    "discordpartner": "id"
+  }
+}
