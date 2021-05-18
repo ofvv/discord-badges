@@ -1,11 +1,11 @@
 const discord = require("discord.js")
 const client = new discord.Client()
 const config = require("./config.json")
-
+// on start
 client.on("ready", async () => {
   console.log(`${client.user.tag} Is Looking For Badges!`)
 })
-
+// on member join
 client.on("guildMemberAdd", async member => {
   try {
   let userflags = member.user.flags;
